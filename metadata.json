@@ -1,0 +1,6 @@
+{
+  "name": "Pak Investment",
+  "description": "Pak Investment - Watch & Earn, Deposit via JazzCash, Withdraw via EasyPaisa/JazzCash, Referral System and Admin Dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
